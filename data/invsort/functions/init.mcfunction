@@ -1,0 +1,2 @@
+#> installation message
+tellraw @a [{"text":"Sort inventory Datapack installed!","color":"dark_green"},{"text":"\n[click here to check for new updates]","color":"gold","clickEvent":{"action":"open_url","value":"https://www.planetminecraft.com/mod/timber-datapack/"}}]
